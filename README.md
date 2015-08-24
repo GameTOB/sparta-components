@@ -1,2 +1,1 @@
-# sparta-components
-Sparta components
+# tob-components
